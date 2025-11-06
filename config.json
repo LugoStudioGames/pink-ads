@@ -4,8 +4,8 @@
     "redirect_url": ""
   },
   "github": {
-    "username": "solodroid-developer",
-    "repository": "wallhub",
+    "username": "LugoStudioGames",
+    "repository": "pink-wallpaper",
     "branch": "main"
   },
   "settings": {
@@ -104,4 +104,5 @@
       "native_ad_style_wallpaper_details": "large"
     }
   }
+
 }
