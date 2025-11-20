@@ -2,7 +2,7 @@
   "app": {
     "status": true,
     "redirect_url": ""
-  },
+  }
   "github": {
     "username": "LugoStudioGames",
     "repository": "pink-wallpapers",
@@ -106,6 +106,7 @@
   }
 
 }
+
 
 
 
