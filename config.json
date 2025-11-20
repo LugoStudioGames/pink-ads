@@ -23,7 +23,7 @@
   "ads": {
     "status": true,
     "tiktokappid":"xxxxxxxxx",
-    "main_ads": "no",
+    "main_ads": "admob",
     "backup_ads": "facebook",
     "ads_unit_id": {
       "admob": {
@@ -106,6 +106,7 @@
   }
 
 }
+
 
 
 
